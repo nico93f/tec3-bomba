@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/tec3-bomba/static/css/main.ae0cdfc8.chunk.css",
+    "main.js": "/tec3-bomba/static/js/main.4ae2b0ef.chunk.js",
+    "main.js.map": "/tec3-bomba/static/js/main.4ae2b0ef.chunk.js.map",
+    "runtime-main.js": "/tec3-bomba/static/js/runtime-main.e6c0f830.js",
+    "runtime-main.js.map": "/tec3-bomba/static/js/runtime-main.e6c0f830.js.map",
+    "static/js/2.7e2a3cf1.chunk.js": "/tec3-bomba/static/js/2.7e2a3cf1.chunk.js",
+    "static/js/2.7e2a3cf1.chunk.js.map": "/tec3-bomba/static/js/2.7e2a3cf1.chunk.js.map",
+    "index.html": "/tec3-bomba/index.html",
+    "precache-manifest.53a27c22a1596d1eeee10d461bec6106.js": "/tec3-bomba/precache-manifest.53a27c22a1596d1eeee10d461bec6106.js",
+    "service-worker.js": "/tec3-bomba/service-worker.js",
+    "static/css/main.ae0cdfc8.chunk.css.map": "/tec3-bomba/static/css/main.ae0cdfc8.chunk.css.map",
+    "static/media/background.jpg": "/tec3-bomba/static/media/background.54852844.jpg",
+    "static/media/beep.mp3": "/tec3-bomba/static/media/beep.b006268b.mp3",
+    "static/media/correct.mp3": "/tec3-bomba/static/media/correct.b729672e.mp3",
+    "static/media/danger.mp3": "/tec3-bomba/static/media/danger.c6b6aef2.mp3",
+    "static/media/warning.mp3": "/tec3-bomba/static/media/warning.fac8e2e8.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e6c0f830.js",
+    "static/js/2.7e2a3cf1.chunk.js",
+    "static/css/main.ae0cdfc8.chunk.css",
+    "static/js/main.4ae2b0ef.chunk.js"
+  ]
+}
