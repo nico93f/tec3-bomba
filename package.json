@@ -1,8 +1,9 @@
 {
   "name": "tec3-bomba",
-  "homepage": "http://nico93f.github.io/tec3-bomba",
+  "homepage": "./",
   "version": "0.1.0",
   "private": true,
+  "main": "main.js",
   "dependencies": {
     "react": "^16.10.2",
     "react-dom": "^16.10.2",
@@ -15,7 +16,9 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
-    "deploy": "gh-pages -d build"
+    "deploy": "gh-pages -d build",
+    "electron": "electron .",
+    "package-win": "electron-packager . --overwrite --platform=win32 --arch=ia32 --prune=true --out=release-builds --version-string.CompanyName=CE --version-string.FileDescription=CE --version-string.ProductName='Tec3-Bomba'"
   },
   "eslintConfig": {
     "extends": "react-app"
@@ -33,6 +36,8 @@
     ]
   },
   "devDependencies": {
+    "electron": "^7.0.0",
+    "electron-packager": "^14.1.0",
     "gh-pages": "^2.1.1"
   }
 }
